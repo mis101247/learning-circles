@@ -1,4 +1,4 @@
-# [無瑕的程式碼：整潔的軟體設計與架構篇]()
+# [無瑕的程式碼：整潔的軟體設計與架構篇](https://github.com/mis101247/learning-circles/projects/1)
 
 ## 書本資訊
 
@@ -15,13 +15,13 @@
 ## 目錄
 
 * Part I 簡介
-  * [Chapter 1 什麼是設計與結構]()
-  * [Chapter 2 兩種價值觀的故事]()
+  * [Chapter 1 什麼是設計與結構](https://github.com/mis101247/learning-circles/issues/2)
+  * [Chapter 2 兩種價值觀的故事](https://github.com/mis101247/learning-circles/issues/3)
 
 * Part II 從基礎開始：程式設計範式
-  * [Chapter 3 範式概述]()
-  * [Chapter 4 結構化程式設計]()
-  * [Chapter 5 物件導向程式設計]()
+  * [Chapter 3 範式概述](https://github.com/mis101247/learning-circles/issues/4)
+  * [Chapter 4 結構化程式設計](https://github.com/mis101247/learning-circles/issues/5)
+  * [Chapter 5 物件導向程式設計](https://github.com/mis101247/learning-circles/issues/6)
   * Chapter 6 函數式程式設計
 
 * Part III 設計原則
